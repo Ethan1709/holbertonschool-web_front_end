@@ -14,8 +14,17 @@ body {
 a:link {
     color: text-color;
     text-decoration: none;
-    font-style: italic;
+}
+
+a:visited {
+    font-size: italic;
+}
+
+a:hover {
     text-decoration: underline;
+}
+
+a:active {
     background-color: var(--color-light-grey);
 }
 
