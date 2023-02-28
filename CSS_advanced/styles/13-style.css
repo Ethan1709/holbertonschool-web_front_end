@@ -11,7 +11,7 @@ body {
     line-height: var(--line-height-base);
 }
 
-.a:link {
+a:link {
     color: text-color;
     text-decoration: none;
     font-style: italic;
