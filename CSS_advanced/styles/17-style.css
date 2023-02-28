@@ -55,6 +55,7 @@ a:active {
 
 .section-footer {
     padding: var(--section-footer-padding);
+    text-align: var(--section-footer-align);
 }
 
 .section-title {
@@ -481,8 +482,5 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   .footer {
-    padding-bottom: var(--footer-padding);
-    padding-left: var(--footer-padding);
-    padding-right: var(--footer-padding);
-    padding-top: var(--footer-padding);
+    padding: var(--footer-padding);
   }
