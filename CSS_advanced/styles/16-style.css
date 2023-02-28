@@ -61,8 +61,8 @@ a:active {
 
 .container {
     width: 960px;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 :root {
