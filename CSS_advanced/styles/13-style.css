@@ -14,6 +14,9 @@ body {
 a:link {
     color: text-color;
     text-decoration: none;
+    font-style: italic;
+    text-decoration: underline;
+    background-color: var(--color-light-grey);
 }
 
 .visually-hidden {
