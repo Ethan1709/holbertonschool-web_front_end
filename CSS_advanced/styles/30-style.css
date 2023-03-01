@@ -355,7 +355,7 @@ ul.row {
     background-color: rgba(0, 0, 0, 0.7);
   }
 
-  .card-work .card-inner {
+  .card-work .card-title {
     text-align: center;
     margin: 0;
     opacity: 0;
@@ -363,7 +363,7 @@ ul.row {
     position: relative;
   }
 
- .card-work .card-title {
+ .card-work .card-title:link {
     display: block;
     text-decoration: none;
     padding-top: 45%;
