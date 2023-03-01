@@ -141,32 +141,6 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
-.nav .nav-item {
-    font-family: nav-item-font-family;
-    font-weight: nav-item-font-weight;
-    font-size: nav-item-font-size;
-    letter-spacing: nav-item-letter-spacing;
-    display: nav-item-display;
-    margin: nav-item-margin;
-  }
-
- .nav .nav-link {
-    display: block;
-    padding: var(--root-element)/2 var(--root-element);
-    --nav-item-font-family: var(--font-family-title);
-    --nav-item-font-weight: var(--font-weight-bold);
-    --nav-item-font-size: var(--font-size-medium);
-    --nav-item-letter-spacing: var(--letter-spacing-large);
-    --nav-item-display: inline-block;
-    --nav-item-margin: calc(3 * var(--root-element)) 0 0 0;
-    --nav-item-link-hover: var(--color-primary);
-  }
-
- .nav .nav-link:hover {
-    color: var(--nav-item-link-hover);
-  }
-
-
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
