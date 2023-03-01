@@ -124,8 +124,8 @@ a:active {
     --section-footer-align: center;
     --footer-padding: 5rem 0 1rem;
     --nav-item-font-family: var(--font-family-title);
-    --nav-item-font-weight: var(--nav-item-font-weight);
-    --nav-item-font-size: var(--nav-item-font-size);
+    --nav-item-font-weight: var(--font-weight-bold);
+    --nav-item-font-size: var(--font-size-medium);
 }
 
 h1, h2, h3, h4, h5, h6 {
