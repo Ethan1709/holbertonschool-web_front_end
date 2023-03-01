@@ -141,6 +141,10 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+.nav .nav-item {
+    font-family: var(--nav-item-font-family);
+}
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
