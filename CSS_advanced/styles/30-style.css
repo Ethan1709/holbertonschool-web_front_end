@@ -381,8 +381,7 @@ ul.row {
     transition: opacity 0.3s ease-in-out;
 }
 
- .card-work:hover .card-title a::after,
- .card-work:hover .card-work a::after {
+ .card-work:hover .card-title {
     opacity: 1;
 }
 
