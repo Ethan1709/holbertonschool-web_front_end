@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
-.nav-item {
+.nav .nav-item {
     font-family: nav-item-font-family;
     font-weight: nav-item-font-weight;
     font-size: nav-item-font-size;
@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: nav-item-margin;
   }
 
-  .nav-link {
+ .nav .nav-link {
     display: block;
     padding: var(--root-element)/2 var(--root-element);
     --nav-item-font-family: var(--font-family-title);
@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
     --nav-item-link-hover: var(--color-primary);
   }
 
-  .nav-link:hover {
+ .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
   }
 
