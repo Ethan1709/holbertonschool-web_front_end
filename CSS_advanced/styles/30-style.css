@@ -355,7 +355,7 @@ ul.row {
     background-color: rgba(0, 0, 0, 0.7);
   }
 
-  .card-work .card-title a {
+  .card-work .card-inner {
     text-align: center;
     margin: 0;
     opacity: 0;
